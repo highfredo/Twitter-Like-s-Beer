@@ -8,3 +8,7 @@ Replaces the heart for a beer
 </a> 
 ===============
 </h3>
+
+<a href="https://raw.githubusercontent.com/highfredo/Twitter-Like-s-Beer/master/beer_like_converted.webm">
+	Video Example
+</a>
